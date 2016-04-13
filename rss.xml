@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Site 2JL]]></title>
+        <description><![CDATA[Site 2JL]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Apr 2016 21:53:12 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Airbnb's VP of engineering on the sharing economy]]></title>
+            <description><![CDATA[<article><h1>Airbnb's VP of engineering on the sharing economy</h1><p>The sharing economy, which is sometimes referred to as collaborative consumption, has become a household term - at least in the tech industry - that signifies peer-to-peer exchanges through technology. "The fact that there are so many terms going around these things is almost a function of the fact the industry is so new," Airbnb VP of Engineering Mike Curtis told me on this week's episode of Bullish.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9e874b349eb28b3d8eebfef184434660f746fa00.jpg"></article>]]></description>
+            <link>http://techcrunch.com/2016/04/13/airbnbs-vp-of-engineering-on-the-sharing-economy/</link>
+            <guid isPermaLink="false">fff739f2-a2d9-4809-919f-3e6255f81f4a</guid>
+            <pubDate>Wed, 13 Apr 2016 21:53:11 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
