@@ -1,0 +1,28 @@
+name: Site 2JL
+favicon: null
+layout_spectrum: 0.36743998411111534
+typography_spectrum: 0.04229385405778885
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.44743592059239745
+  lightness: 0.23713166848756373
+  saturation: 0.4252252313308418
+  rhythmicContrast: 0.7218800007831305
+purpose: []
